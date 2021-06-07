@@ -9,4 +9,4 @@ te acompanhar por lá, vão ver o que tu precisa e irão contribuir de alguma
 forma para dar sequência no seu negócio/projeto.
 
 ## Libs usadas:
-
+* styled-components
