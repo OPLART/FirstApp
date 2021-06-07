@@ -1,5 +1,6 @@
-Olá, meu nome é Miguel, seja bem vindo.
+## Olá 👋, seja bem vindo.
 
+## Descrição:
 Estou com uma ideia na cabeça, vou criar um App de negócios, onde as pessoas
 possam colocar e dizer sua ideia de negócio, o que querem fazer e etc...
 Esse App vai ser tipo uma rede social digamos, tu vai criar um grupo com as
