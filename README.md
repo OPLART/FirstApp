@@ -7,3 +7,6 @@ Esse App vai ser tipo uma rede social digamos, tu vai criar um grupo com as
 pessoas que tu deseja fazer parte do teu negócio/projeto, e elas vão poder
 te acompanhar por lá, vão ver o que tu precisa e irão contribuir de alguma
 forma para dar sequência no seu negócio/projeto.
+
+## Libs usadas:
+
